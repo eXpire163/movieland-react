@@ -4,9 +4,9 @@ import SearchIcon from './search.svg'
 
 import MovieCard from "./MovieCard"
 
-//omdbapi = c9fadbca
+//omdbapi = get it from obdbapi
 
-const API_URL = 'http://www.omdbapi.com?apikey=c9fadbca'
+const API_URL = 'http://www.omdbapi.com?apikey=<add it here>'
 
 
 const App = () => {
